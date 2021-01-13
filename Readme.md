@@ -1,4 +1,5 @@
-# Implementation Of Leaky-integrate and fire model(LIF) and Exponential-LIf(Non-linear LIF) and Adaptive-ELIF in Python.
+# LIF, NLIF, AELIF
+### Implementation Of Leaky-integrate and fire model(LIF) and Exponential-LIf(Non-linear LIF) and Adaptive-ELIF in Python.
 
 - `my_plot` function in MyPlot file uses `matplotlib` which is a library for plotting in python.
 - LIF directory contains a file for implementing LIF Model.
